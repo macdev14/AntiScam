@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+  
 struct ModalView: View {
     @Environment(\.modelContext) private var modelContext
     @State var ocorrencia = ""
